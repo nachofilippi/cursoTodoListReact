@@ -1,0 +1,11 @@
+.TodoItem {
+
+}
+
+.icon {
+    font-size: 20px;
+}
+
+.icon-completed {
+    color: red;
+}
