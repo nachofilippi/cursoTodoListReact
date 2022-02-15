@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cursoTodoListReact/static/css/main.b3f722c0.css",
+    "main.js": "/cursoTodoListReact/static/js/main.5ff190b9.js",
+    "static/js/787.f6abb7bc.chunk.js": "/cursoTodoListReact/static/js/787.f6abb7bc.chunk.js",
+    "index.html": "/cursoTodoListReact/index.html",
+    "main.b3f722c0.css.map": "/cursoTodoListReact/static/css/main.b3f722c0.css.map",
+    "main.5ff190b9.js.map": "/cursoTodoListReact/static/js/main.5ff190b9.js.map",
+    "787.f6abb7bc.chunk.js.map": "/cursoTodoListReact/static/js/787.f6abb7bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3f722c0.css",
+    "static/js/main.5ff190b9.js"
+  ]
+}
